@@ -1,0 +1,4 @@
+#Fri Mar 16 08:19:50 IST 2018
+base.0=F\:\\ITapp database\\testdb\\exported\\fproj\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
