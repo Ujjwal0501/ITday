@@ -85,6 +85,19 @@
             <flag name="all" value="0x77"/>
         </attr></declare-styleable><style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
         <item name="statusBarBackground">#000000</item>
+    </style></file></source></dataSet><dataSet config="com.android.support:cardview-v7:28.0.0-alpha1$Generated" generated="true"><source path="C:\Users\30hrs\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\140a7d64408991410b9144fa39dbec15\res"/></dataSet><dataSet config="com.android.support:cardview-v7:28.0.0-alpha1" from-dependency="true" generated-set="com.android.support:cardview-v7:28.0.0-alpha1$Generated"><source path="C:\Users\30hrs\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\140a7d64408991410b9144fa39dbec15\res"><file path="C:\Users\30hrs\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\140a7d64408991410b9144fa39dbec15\res\values\values.xml" qualifiers=""><attr format="reference" name="cardViewStyle"/><color name="cardview_dark_background">#FF424242</color><color name="cardview_light_background">#FFFFFFFF</color><color name="cardview_shadow_end_color">#03000000</color><color name="cardview_shadow_start_color">#37000000</color><declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/><attr name="android:minWidth"/><attr name="android:minHeight"/></declare-styleable><dimen name="cardview_compat_inset_shadow">1dp</dimen><dimen name="cardview_default_elevation">2dp</dimen><dimen name="cardview_default_radius">2dp</dimen><style name="Base.CardView" parent="android:Widget">
+        <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
+        <item name="cardElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardMaxElevation">@dimen/cardview_default_elevation</item>
+        <item name="cardUseCompatPadding">false</item>
+        <item name="cardPreventCornerOverlap">true</item>
+    </style><style name="CardView" parent="Base.CardView">
+    </style><style name="CardView.Dark">
+        <item name="cardBackgroundColor">@color/cardview_dark_background</item>
+    </style><style name="CardView.Light">
+        <item name="cardBackgroundColor">@color/cardview_light_background</item>
+    </style></file><file path="C:\Users\30hrs\.gradle\caches\transforms-1\files-1.1\cardview-v7-28.0.0-alpha1.aar\140a7d64408991410b9144fa39dbec15\res\values-v23\values-v23.xml" qualifiers="v23"><style name="CardView" parent="Base.CardView">
+        <item name="cardBackgroundColor">?android:attr/colorBackgroundFloating</item>
     </style></file></source></dataSet><dataSet config="com.android.support.constraint:constraint-layout:1.0.2$Generated" generated="true"><source path="C:\Users\30hrs\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2ad5f9d61fcf357f849593ce678fa226\res"/></dataSet><dataSet config="com.android.support.constraint:constraint-layout:1.0.2" from-dependency="true" generated-set="com.android.support.constraint:constraint-layout:1.0.2$Generated"><source path="C:\Users\30hrs\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2ad5f9d61fcf357f849593ce678fa226\res"><file path="C:\Users\30hrs\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2ad5f9d61fcf357f849593ce678fa226\res\values\values.xml" qualifiers=""><attr format="reference" name="constraintSet"/><attr format="integer" name="layout_constraintBaseline_creator"/><attr format="reference|enum" name="layout_constraintBaseline_toBaselineOf">
         <enum name="parent" value="0"/>
     </attr><attr format="integer" name="layout_constraintBottom_creator"/><attr format="reference|enum" name="layout_constraintBottom_toBottomOf">
@@ -1762,7 +1775,7 @@
         </attr><attr format="integer" name="fontProviderFetchTimeout">
           
             <enum name="forever" value="-1"/>
-        </attr></declare-styleable><declare-styleable name="AppCompatTextView"><attr format="reference|boolean" name="textAllCaps"/><attr name="android:textAppearance"/><attr format="enum" name="autoSizeTextType">
+        </attr></declare-styleable><declare-styleable name="CardView"><attr format="color" name="cardBackgroundColor"/><attr format="dimension" name="cardCornerRadius"/><attr format="dimension" name="cardElevation"/><attr format="dimension" name="cardMaxElevation"/><attr format="boolean" name="cardUseCompatPadding"/><attr format="boolean" name="cardPreventCornerOverlap"/><attr format="dimension" name="contentPadding"/><attr format="dimension" name="contentPaddingLeft"/><attr format="dimension" name="contentPaddingRight"/><attr format="dimension" name="contentPaddingTop"/><attr format="dimension" name="contentPaddingBottom"/><attr name="android:minWidth"/><attr name="android:minHeight"/></declare-styleable><declare-styleable name="AppCompatTextView"><attr format="reference|boolean" name="textAllCaps"/><attr name="android:textAppearance"/><attr format="enum" name="autoSizeTextType">
             
             <enum name="none" value="0"/>
             

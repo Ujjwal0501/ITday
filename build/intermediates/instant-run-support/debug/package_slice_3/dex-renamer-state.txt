@@ -1,0 +1,4 @@
+#Fri Mar 16 21:03:42 IST 2018
+base.0=C\:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex

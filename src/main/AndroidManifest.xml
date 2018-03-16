@@ -65,11 +65,11 @@
             android:label="@string/app_name"
             android:launchMode="singleTask"
             android:screenOrientation="fullSensor">
-            <intent-filter>
+            <!--intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            </intent-filter-->
 
             <meta-data
                 android:name="unityplayer.UnityActivity"
@@ -98,7 +98,19 @@
 
         <activity
             android:name=".LoginActivity"
-            android:label="@string/title_activity_login"></activity>
+            android:label="@string/title_activity_login"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:label="MainMenu"
+            android:theme="@style/AppTheme"></activity>
+        <activity android:name=".UnityPlayerActivity"/>
     </application>
 
 </manifest> <!-- android:installLocation="preferExternal" -->

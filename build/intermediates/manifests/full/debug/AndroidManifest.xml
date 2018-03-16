@@ -59,6 +59,7 @@
         android:icon="@drawable/app_icon"
         android:isGame="true"
         android:label="@string/app_name"
+        android:testOnly="true"
         android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
         <activity
             android:name="com.adid.fproj.UnityPlayerNativeActivity"
@@ -66,11 +67,14 @@
             android:label="@string/app_name"
             android:launchMode="singleTask"
             android:screenOrientation="fullSensor" >
-            <intent-filter>
+
+            <!--
+            intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            </intent-filter
+            -->
 
             <meta-data
                 android:name="unityplayer.UnityActivity"
@@ -99,7 +103,19 @@
 
         <activity
             android:name="com.adid.fproj.LoginActivity"
-            android:label="@string/title_activity_login" />
+            android:label="@string/title_activity_login"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.adid.fproj.MainActivity"
+            android:label="MainMenu"
+            android:theme="@style/AppTheme" />
+        <activity android:name="com.adid.fproj.UnityPlayerActivity" />
     </application>
 
 </manifest> <!-- android:installLocation="preferExternal" -->
