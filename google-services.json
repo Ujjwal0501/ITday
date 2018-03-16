@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "161271198842",
+    "firebase_url": "https://itday-adac2.firebaseio.com",
+    "project_id": "itday-adac2",
+    "storage_bucket": "itday-adac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161271198842:android:d9b12b35641ce5e3",
+        "android_client_info": {
+          "package_name": "com.adid.fproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161271198842-hit6eg4i7kfre0aoe2lpqg4cpdlr2s1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adid.fproj",
+            "certificate_hash": "a3aa0fab8f51fa5bfd9a69de4bfcc4b3a5406524"
+          }
+        },
+        {
+          "client_id": "161271198842-v00uskr5o12u1po1jut0on4ct53uv3uf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATqDQAsJe-OdDkGaJaTh0e1RpE4SgDe4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161271198842-v00uskr5o12u1po1jut0on4ct53uv3uf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v26\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\af495ba1b1dbd523bc5d743ac592f27f\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v26\\abc_screen_toolbar.xml",
         "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\layout-v26\\abc_screen_toolbar.xml"
     }
