@@ -1,7 +1,15 @@
 [
     {
+        "merged": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c208670135cf45dbf80b876392dc14eb\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    },
+    {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml",
         "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c208670135cf45dbf80b876392dc14eb\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20\\abc_alert_dialog_title_material.xml",

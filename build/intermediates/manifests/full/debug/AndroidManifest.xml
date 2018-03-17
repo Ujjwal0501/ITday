@@ -24,7 +24,9 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
-    <uses-feature android:glEsVersion="0x00020000" />
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
     <uses-feature
         android:name="android.hardware.camera.autofocus"
         android:required="false" />
@@ -52,7 +54,7 @@
     <uses-permission android:name="android.permission.READ_PROFILE" />
     <uses-permission android:name="android.permission.READ_CONTACTS" />
     <uses-permission android:name="android.permission.READ_CALL_LOG" />
-    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
 
     <permission
@@ -126,6 +128,13 @@
         <activity
             android:name="com.adid.fproj.UnityPlayerActivity"
             android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+        <activity
+            android:name="com.google.firebase.auth.internal.FederatedSignInActivity"
+            android:excludeFromRecents="true"
+            android:exported="true"
+            android:launchMode="singleInstance"
+            android:permission="com.google.firebase.auth.api.gms.permission.LAUNCH_FEDERATED_SIGN_IN"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
         <receiver
             android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
@@ -163,14 +172,7 @@
             </intent-filter>
         </receiver>
         <!--
- Internal (not exported) receiver used by the app to start its own exported services
-             without risk of being spoofed.
-        -->
-        <receiver
-            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
-            android:exported="false" />
-        <!--
- FirebaseInstanceIdService performs security checks at runtime,
+             FirebaseInstanceIdService performs security checks at runtime,
              no need for explicit permissions despite exported="true"
         -->
         <service

@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="default_web_client_id" translatable="false">161271198842-v00uskr5o12u1po1jut0on4ct53uv3uf.apps.googleusercontent.com</string>
-    <string name="firebase_database_url" translatable="false">https://itday-adac2.firebaseio.com</string>
-    <string name="gcm_defaultSenderId" translatable="false">161271198842</string>
-    <string name="google_api_key" translatable="false">AIzaSyATqDQAsJe-OdDkGaJaTh0e1RpE4SgDe4I</string>
-    <string name="google_app_id" translatable="false">1:161271198842:android:d9b12b35641ce5e3</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyATqDQAsJe-OdDkGaJaTh0e1RpE4SgDe4I</string>
-    <string name="google_storage_bucket" translatable="false">itday-adac2.appspot.com</string>
-    <string name="project_id" translatable="false">itday-adac2</string>
+    <string name="default_web_client_id" translatable="false">19732828323-j8nqot3mtia7mttd950dadu339eqhebk.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://itday-90070.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">19732828323</string>
+    <string name="google_api_key" translatable="false">AIzaSyBdH9tycmWKunIfunkBy22bIUoYHlJXnxo</string>
+    <string name="google_app_id" translatable="false">1:19732828323:android:d9b12b35641ce5e3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBdH9tycmWKunIfunkBy22bIUoYHlJXnxo</string>
+    <string name="google_storage_bucket" translatable="false">itday-90070.appspot.com</string>
+    <string name="project_id" translatable="false">itday-90070</string>
 </resources>

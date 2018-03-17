@@ -4,6 +4,10 @@
         "source": "C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\af495ba1b1dbd523bc5d743ac592f27f\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
     },
     {
+        "merged": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c208670135cf45dbf80b876392dc14eb\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
+    },
+    {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20\\abc_dialog_material_background.xml",
         "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
     }
