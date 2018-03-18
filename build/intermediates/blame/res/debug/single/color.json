@@ -17,7 +17,7 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
         "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
@@ -45,7 +45,7 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_tint_seek_thumb.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
         "merged": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
@@ -53,15 +53,19 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_search_url_text.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_search_url_text.xml"
     },
     {
         "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
         "source": "C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\8c02d39047df1d62ccf85477d6c849ac\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
+        "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\b71527bf8ecdf34180fa3ce8482b1c35\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_secondary_text_material_light.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
@@ -69,7 +73,7 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_primary_text_material_dark.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
@@ -85,7 +89,7 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_hint_foreground_material_light.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
         "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
@@ -93,7 +97,7 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_primary_text_material_light.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
@@ -137,11 +141,15 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_tint_spinner.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_tint_spinner.xml"
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\switch_thumb_material_light.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\b71527bf8ecdf34180fa3ce8482b1c35\\res\\color\\common_google_signin_btn_tint.xml"
     },
     {
         "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
@@ -149,7 +157,7 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_tint_default.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_tint_default.xml"
     },
     {
         "merged": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
@@ -157,7 +165,7 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
@@ -173,7 +181,7 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_tint_edittext.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_tint_edittext.xml"
     },
     {
         "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
@@ -185,19 +193,19 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_tint_btn_checkable.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_btn_colored_text_material.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
         "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
@@ -217,7 +225,7 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
@@ -229,7 +237,7 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_tint.xml",
@@ -237,7 +245,7 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\switch_thumb_material_dark.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
@@ -253,7 +261,7 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_tint_switch_track.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_tint_switch_track.xml"
     },
     {
         "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_background_cache_hint_selector_material_dark.xml",
@@ -273,6 +281,10 @@
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\color\\abc_secondary_text_material_dark.xml"
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\b71527bf8ecdf34180fa3ce8482b1c35\\res\\color\\common_google_signin_btn_text_light.xml"
     }
 ]

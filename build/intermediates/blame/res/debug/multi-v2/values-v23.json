@@ -109,7 +109,7 @@
             "outputFile": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -120,7 +120,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0-alpha1.aar\\140a7d64408991410b9144fa39dbec15\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0-alpha1.aar\\0365870d4a162b3c70f23752eaf9f85c\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -179,7 +179,7 @@
             "outputFile": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v23\\values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\25bacea28ae0cb8a18b6677610ea21f1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
@@ -190,7 +190,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0-alpha1.aar\\140a7d64408991410b9144fa39dbec15\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\cardview-v7-28.0.0-alpha1.aar\\0365870d4a162b3c70f23752eaf9f85c\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
