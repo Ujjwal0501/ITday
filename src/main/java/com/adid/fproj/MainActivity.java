@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity {
 
     // check current spot and spots in DB
     // takes return value of getLoc, returns TRUE/FALSE
-    private static boolean checkSpot() {
+    private static void checkSpot() {
         // TODO
     }
 
