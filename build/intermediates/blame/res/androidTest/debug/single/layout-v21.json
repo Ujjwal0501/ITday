@@ -8,8 +8,40 @@
         "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\aae0d1664e26660812f2758706bd77e1\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
+        "merged": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\bf4590dfb9f061fa40257454cf8e9840\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
         "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\aae0d1664e26660812f2758706bd77e1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\daf9b7731061ccf0dc50d1210daa7460\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\bf4590dfb9f061fa40257454cf8e9840\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\bf4590dfb9f061fa40257454cf8e9840\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\daf9b7731061ccf0dc50d1210daa7460\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\daf9b7731061ccf0dc50d1210daa7460\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\daf9b7731061ccf0dc50d1210daa7460\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\bf4590dfb9f061fa40257454cf8e9840\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
         "merged": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",

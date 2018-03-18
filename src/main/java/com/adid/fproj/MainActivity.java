@@ -19,8 +19,39 @@ public class MainActivity extends AppCompatActivity {
         aSwitch.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                startActivity(new Intent(MainActivity.this, UnityPlayerActivity.class));
+                v.getContext().startActivity(new Intent(v.getContext(), UnityPlayerActivity.class));
             }
         });
+
+
     }
+
+    // update content of main page
+    private static void upadteContent() {
+        //TODO
+
+    }
+
+    // get balance; manual update only; auto-update on create
+    private static void getBalance() {
+        // TODO
+    }
+
+    // get location update; returns coordinates
+    private static void getLoc() {
+        // TODO
+    }
+
+    // check current spot and spots in DB
+    // takes return value of getLoc, returns TRUE/FALSE
+    private static boolean checkSpot() {
+        // TODO
+    }
+
+    // explored spots; only called when return of checkSpot is true
+    private static void expStat() {
+        // TODO
+    }
+
+
 }
