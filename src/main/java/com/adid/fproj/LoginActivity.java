@@ -5,6 +5,7 @@ import android.animation.AnimatorListenerAdapter;
 import android.annotation.TargetApi;
 import android.content.Intent;
 import android.content.pm.PackageManager;
+import android.graphics.Color;
 import android.support.annotation.NonNull;
 
 import android.app.Activity;
@@ -20,6 +21,7 @@ import android.os.Build;
 import android.os.Bundle;
 import android.provider.ContactsContract;
 import android.text.TextUtils;
+import android.util.Log;
 import android.view.KeyEvent;
 import android.view.View;
 import android.view.View.OnClickListener;
@@ -28,16 +30,23 @@ import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.tasks.OnCompleteListener;
+import com.google.android.gms.tasks.Task;
+import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
+
+import org.w3c.dom.Text;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import static android.Manifest.permission.READ_CONTACTS;
+import static android.content.ContentValues.TAG;
 
 /**
  * A login screen that offers login via email/password.
@@ -89,7 +98,7 @@ public class LoginActivity extends Activity implements LoaderCallbacks<Cursor> {
             }
         });
 
-        Button mEmailSignInButton = (Button) findViewById(R.id.email_sign_in_button);
+        Button mEmailSignInButton = (Button) findViewById(R.id.sign_in);
         mEmailSignInButton.setOnClickListener(new OnClickListener() {
             @Override
             public void onClick(View view) {
@@ -375,7 +384,7 @@ public class LoginActivity extends Activity implements LoaderCallbacks<Cursor> {
         }
     }
 
-    private static void signUp(String email, String password) {
+    private void signUp(String email, String password) {
         mAuth.createUserWithEmailAndPassword(email, password)
                 .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
                     @Override
@@ -384,13 +393,13 @@ public class LoginActivity extends Activity implements LoaderCallbacks<Cursor> {
                             // Sign in success, update UI with the signed-in user's information
                             Log.d(TAG, "createUserWithEmail:success");
                             FirebaseUser user = mAuth.getCurrentUser();
-                            updateUI(user);
+                            // TODO updateUI(user);
                         } else {
                             // If sign in fails, display a message to the user.
                             Log.w(TAG, "createUserWithEmail:failure", task.getException());
-                            Toast.makeText(EmailPasswordActivity.this, "Authentication failed.",
+                            Toast.makeText(LoginActivity.this, "Authentication failed.",
                                     Toast.LENGTH_SHORT).show();
-                            updateUI(null);
+                            // TODO updateUI(null);
                         }
 
                         // ...
@@ -398,7 +407,7 @@ public class LoginActivity extends Activity implements LoaderCallbacks<Cursor> {
                 });
     }
 
-    private static void signIn(String email, String password) {
+    private void signIn(String email, String password) {
         mAuth.createUserWithEmailAndPassword(email, password)
                 .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
                     @Override
@@ -407,18 +416,38 @@ public class LoginActivity extends Activity implements LoaderCallbacks<Cursor> {
                             // Sign in success, update UI with the signed-in user's information
                             Log.d(TAG, "createUserWithEmail:success");
                             FirebaseUser user = mAuth.getCurrentUser();
-                            updateUI(user);
+                            // TODO updateUI(user);
                         } else {
                             // If sign in fails, display a message to the user.
                             Log.w(TAG, "createUserWithEmail:failure", task.getException());
-                            Toast.makeText(EmailPasswordActivity.this, "Authentication failed.",
+                            Toast.makeText(LoginActivity.this, "Authentication failed.",
                                     Toast.LENGTH_SHORT).show();
-                            updateUI(null);
+                            // TODO updateUI(null);
                         }
 
                         // ...
                     }
                 });
+    }
+
+    public void signUpGUI(View v) {
+        LinearLayout layout = (LinearLayout) findViewById(R.id.signup);
+        Button btn = (Button) findViewById(R.id.sign_in);
+        TextView tv = (TextView) findViewById(R.id.tv_in);
+        btn.setVisibility(View.GONE);
+        layout.setVisibility(View.VISIBLE);
+        tv.setBackgroundColor(Color.parseColor("#ffffff"));
+        v.setBackgroundColor(Color.parseColor("#d5e8fa"));
+    }
+
+    public void signInGUI(View v) {
+        LinearLayout layout = (LinearLayout) findViewById(R.id.signup);
+        Button btn = (Button) findViewById(R.id.sign_in);
+        TextView tv = (TextView) findViewById(R.id.tv_up);
+        btn.setVisibility(View.VISIBLE);
+        layout.setVisibility(View.GONE);
+        tv.setBackgroundColor(Color.parseColor("#ffffff"));
+        v.setBackgroundColor(Color.parseColor("#d5e8fa"));
     }
 }
 

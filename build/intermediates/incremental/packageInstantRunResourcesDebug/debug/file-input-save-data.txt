@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Mar 16 21:15:25 IST 2018
+#Sun Mar 18 18:28:06 IST 2018
 17.baseType=DIRECTORY
 4.path=Vuforia/500.dat
 22.set=ASSET
