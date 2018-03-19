@@ -4,6 +4,10 @@
         "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\c0e5ad3c3815f87be61e4caf4b2d2889\\res\\layout-v16\\notification_template_custom_big.xml"
     },
     {
+        "merged": "E:\\krow\\Myprojects\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
+        "source": "E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\21717923d2f7be8ff5d075a5839acf69\\res\\layout-v16\\notification_template_custom_big.xml"
+    },
+    {
         "merged": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\layout-v16\\notification_template_custom_big.xml",
         "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\bf4590dfb9f061fa40257454cf8e9840\\res\\layout-v16\\notification_template_custom_big.xml"
     },
