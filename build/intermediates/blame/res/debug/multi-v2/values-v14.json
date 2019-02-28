@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\krow\\Myprojects\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+            "outputFile": "/home/ujjwal/GitHub/ITday/E:\\krow\\Myprojects\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "E:\\krow\\Myprojects\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/E:\\krow\\Myprojects\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",
@@ -25,10 +25,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+            "outputFile": "/home/ujjwal/GitHub/ITday/C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",
@@ -49,10 +49,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "outputFile": "/home/ujjwal/GitHub/ITday/C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\me\\Documents\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\me\\Documents\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",
@@ -73,10 +73,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "outputFile": "/home/ujjwal/GitHub/ITday/C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",
@@ -97,10 +97,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "outputFile": "/home/ujjwal/GitHub/ITday/C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\Punit\\Documents\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",
@@ -121,10 +121,10 @@
             ]
         },
         {
-            "outputFile": "E:\\krow\\Myprojects\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "outputFile": "/home/ujjwal/GitHub/ITday/E:\\krow\\Myprojects\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "E:\\krow\\Myprojects\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/E:\\krow\\Myprojects\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",
@@ -145,10 +145,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+            "outputFile": "/home/ujjwal/GitHub/ITday/C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\Punit\\Documents\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",
@@ -169,10 +169,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+            "outputFile": "/home/ujjwal/GitHub/ITday/C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\me\\Documents\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\me\\Documents\\GitHub\\ITday\\src\\main\\res\\values-v14\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "0",
@@ -180,6 +180,54 @@
                         "endLines": "3",
                         "endColumns": "8",
                         "endOffsets": "153"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/ujjwal/DataDisk/krow/Myprojects/GitHub/ITday/build/intermediates/res/merged/debug/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/media/ujjwal/DataDisk/krow/Myprojects/GitHub/ITday/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "51",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "150"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "154"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/ujjwal/DataDisk/krow/Myprojects/GitHub/ITday/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/media/ujjwal/DataDisk/krow/Myprojects/GitHub/ITday/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "0",
+                        "startOffsets": "51",
+                        "endLines": "3",
+                        "endColumns": "8",
+                        "endOffsets": "150"
                     },
                     "to": {
                         "startLines": "2",

@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "/media/ujjwal/DataDisk/krow/Myprojects/GitHub/ITday/build/intermediates/res/merged/debug/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c208670135cf45dbf80b876392dc14eb\\res\\values-fr-rCA\\values-fr-rCA.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,1937",
-                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
-                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,2018"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,4838",
-                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
-                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,4919"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\97e4827901fcbb33cef1a146efe66639\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/29112f4f0b3c1f1bfe94f91e9dd225da/res/values-fr-rCA/values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +21,97 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/9904322951bd7418e4d6d76e86b7d7f7/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4924",
+                        "endColumns": "100",
+                        "endOffsets": "5020"
+                    }
+                },
+                {
+                    "source": "/home/ujjwal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/3bc28e1b257022c080a62abed499db7d/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,1937",
+                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
+                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,2018"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,4838",
+                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
+                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,4919"
+                    }
+                },
+                {
+                    "source": "/home/ujjwal/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/9132de7001ce258d9d9374c48c8b9ed4/res/values-fr-rCA/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "285,389,601,729,836,1066,1197,1344,1482,1736,1846,2062,2196,2415,2620,2719,2809",
+                        "endColumns": "103,211,127,106,229,130,146,137,253,109,215,133,218,204,98,89,108",
+                        "endOffsets": "388,600,728,835,1065,1196,1343,1481,1735,1845,2061,2195,2414,2619,2718,2808,2917"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26,28,29,30,31,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1937,2045,2257,2389,2500,2730,2865,3016,3378,3632,3746,3962,4100,4319,4528,4631,4725",
+                        "endColumns": "107,211,131,110,229,134,150,141,253,113,215,137,218,208,102,93,112",
+                        "endOffsets": "2040,2252,2384,2495,2725,2860,3011,3153,3627,3741,3957,4095,4314,4523,4626,4720,4833"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ujjwal/GitHub/ITday/C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c208670135cf45dbf80b876392dc14eb\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,1937",
+                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
+                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,2018"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,4838",
+                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
+                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,4919"
+                    }
+                },
+                {
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\97e4827901fcbb33cef1a146efe66639\\res\\values-fr-rCA\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "287",
+                        "endColumns": "219",
+                        "endOffsets": "506"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "3158",
+                        "endColumns": "219",
+                        "endOffsets": "3373"
+                    }
+                },
+                {
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -55,7 +128,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\bf4590dfb9f061fa40257454cf8e9840\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\bf4590dfb9f061fa40257454cf8e9840\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -74,10 +147,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "/home/ujjwal/GitHub/ITday/C:\\Users\\Punit\\Documents\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c208670135cf45dbf80b876392dc14eb\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c208670135cf45dbf80b876392dc14eb\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -94,7 +167,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\97e4827901fcbb33cef1a146efe66639\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\97e4827901fcbb33cef1a146efe66639\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -111,7 +184,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\390afd1c7513e4e4dbedf23bd2e4ec7f\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -128,7 +201,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\bf4590dfb9f061fa40257454cf8e9840\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\Punit\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\bf4590dfb9f061fa40257454cf8e9840\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -147,10 +220,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "/home/ujjwal/GitHub/ITday/C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\fe8ca33d04504c962f2e32296fee5f86\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\fe8ca33d04504c962f2e32296fee5f86\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -167,7 +240,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\c0e5ad3c3815f87be61e4caf4b2d2889\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\c0e5ad3c3815f87be61e4caf4b2d2889\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -184,7 +257,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\b71527bf8ecdf34180fa3ce8482b1c35\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\b71527bf8ecdf34180fa3ce8482b1c35\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -201,7 +274,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -220,10 +293,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "/home/ujjwal/GitHub/ITday/C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\daf9b7731061ccf0dc50d1210daa7460\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\daf9b7731061ccf0dc50d1210daa7460\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -240,7 +313,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\af495ba1b1dbd523bc5d743ac592f27f\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\af495ba1b1dbd523bc5d743ac592f27f\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -257,7 +330,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.4.aar\\76fda5534da40b5d0e8239dc9af6875f\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.4.aar\\76fda5534da40b5d0e8239dc9af6875f\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -274,7 +347,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\8c02d39047df1d62ccf85477d6c849ac\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\8c02d39047df1d62ccf85477d6c849ac\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -293,10 +366,10 @@
             ]
         },
         {
-            "outputFile": "E:\\krow\\Myprojects\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "/home/ujjwal/GitHub/ITday/E:\\krow\\Myprojects\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\661d4b644216d059571983b57b58bfb0\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\661d4b644216d059571983b57b58bfb0\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -313,7 +386,7 @@
                     }
                 },
                 {
-                    "source": "E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c15c0b0b33b50af0aee6954aef3fe6b2\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c15c0b0b33b50af0aee6954aef3fe6b2\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -330,7 +403,7 @@
                     }
                 },
                 {
-                    "source": "E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\21717923d2f7be8ff5d075a5839acf69\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\21717923d2f7be8ff5d075a5839acf69\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -347,7 +420,7 @@
                     }
                 },
                 {
-                    "source": "E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\316151afe330504c975d0c5db8810d24\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\316151afe330504c975d0c5db8810d24\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -366,10 +439,10 @@
             ]
         },
         {
-            "outputFile": "E:\\krow\\Myprojects\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "/home/ujjwal/GitHub/ITday/E:\\krow\\Myprojects\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\661d4b644216d059571983b57b58bfb0\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\661d4b644216d059571983b57b58bfb0\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -386,7 +459,7 @@
                     }
                 },
                 {
-                    "source": "E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c15c0b0b33b50af0aee6954aef3fe6b2\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\c15c0b0b33b50af0aee6954aef3fe6b2\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -403,7 +476,7 @@
                     }
                 },
                 {
-                    "source": "E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\21717923d2f7be8ff5d075a5839acf69\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\21717923d2f7be8ff5d075a5839acf69\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -420,7 +493,7 @@
                     }
                 },
                 {
-                    "source": "E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\316151afe330504c975d0c5db8810d24\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/E:\\AndroidStudioFiles\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\316151afe330504c975d0c5db8810d24\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -439,10 +512,83 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "/media/ujjwal/DataDisk/krow/Myprojects/GitHub/ITday/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\daf9b7731061ccf0dc50d1210daa7460\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "/home/ujjwal/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.8.0.aar/29112f4f0b3c1f1bfe94f91e9dd225da/res/values-fr-rCA/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "287",
+                        "endColumns": "219",
+                        "endOffsets": "506"
+                    },
+                    "to": {
+                        "startLines": "27",
+                        "startColumns": "4",
+                        "startOffsets": "3158",
+                        "endColumns": "219",
+                        "endOffsets": "3373"
+                    }
+                },
+                {
+                    "source": "/home/ujjwal/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/9904322951bd7418e4d6d76e86b7d7f7/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "38",
+                        "startColumns": "4",
+                        "startOffsets": "4924",
+                        "endColumns": "100",
+                        "endOffsets": "5020"
+                    }
+                },
+                {
+                    "source": "/home/ujjwal/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/3bc28e1b257022c080a62abed499db7d/res/values-fr-rCA/values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,1937",
+                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
+                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,2018"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,37",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,216,331,442,529,645,775,858,938,1034,1144,1256,1359,1470,1577,1679,1838,4838",
+                        "endColumns": "110,114,110,86,115,129,82,79,95,109,111,102,110,106,101,158,98,85",
+                        "endOffsets": "211,326,437,524,640,770,853,933,1029,1139,1251,1354,1465,1572,1674,1833,1932,4919"
+                    }
+                },
+                {
+                    "source": "/home/ujjwal/.gradle/caches/transforms-1/files-1.1/play-services-base-11.8.0.aar/9132de7001ce258d9d9374c48c8b9ed4/res/values-fr-rCA/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "285,389,601,729,836,1066,1197,1344,1482,1736,1846,2062,2196,2415,2620,2719,2809",
+                        "endColumns": "103,211,127,106,229,130,146,137,253,109,215,133,218,204,98,89,108",
+                        "endOffsets": "388,600,728,835,1065,1196,1343,1481,1735,1845,2061,2195,2414,2619,2718,2808,2917"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26,28,29,30,31,32,33,34,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1937,2045,2257,2389,2500,2730,2865,3016,3378,3632,3746,3962,4100,4319,4528,4631,4725",
+                        "endColumns": "107,211,131,110,229,134,150,141,253,113,215,137,218,208,102,93,112",
+                        "endOffsets": "2040,2252,2384,2495,2725,2860,3011,3153,3627,3741,3957,4095,4314,4523,4626,4720,4833"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/ujjwal/GitHub/ITday/C:\\Users\\me\\Documents\\GitHub\\ITday\\build\\intermediates\\res\\merged\\debug\\values-fr-rCA\\values-fr-rCA.xml",
+            "map": [
+                {
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\daf9b7731061ccf0dc50d1210daa7460\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -459,7 +605,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\af495ba1b1dbd523bc5d743ac592f27f\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\af495ba1b1dbd523bc5d743ac592f27f\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -476,7 +622,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.4.aar\\76fda5534da40b5d0e8239dc9af6875f\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.0.4.aar\\76fda5534da40b5d0e8239dc9af6875f\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -493,7 +639,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\8c02d39047df1d62ccf85477d6c849ac\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\me\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.0.4.aar\\8c02d39047df1d62ccf85477d6c849ac\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -512,10 +658,10 @@
             ]
         },
         {
-            "outputFile": "C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
+            "outputFile": "/home/ujjwal/GitHub/ITday/C:\\Users\\30hrs\\Documents\\GitHub\\ITday\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr-rCA\\values-fr-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\fe8ca33d04504c962f2e32296fee5f86\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-11.8.0.aar\\fe8ca33d04504c962f2e32296fee5f86\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -532,7 +678,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\c0e5ad3c3815f87be61e4caf4b2d2889\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\c0e5ad3c3815f87be61e4caf4b2d2889\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -549,7 +695,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\b71527bf8ecdf34180fa3ce8482b1c35\\res\\values-fr-rCA\\values.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-11.8.0.aar\\b71527bf8ecdf34180fa3ce8482b1c35\\res\\values-fr-rCA\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -566,7 +712,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "source": "/home/ujjwal/GitHub/ITday/C:\\Users\\30hrs\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.0.aar\\871af761f4418d58ccfe2c7c06223d39\\res\\values-fr-rCA\\values-fr-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
